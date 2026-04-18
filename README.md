@@ -1,4 +1,4 @@
-# Negative Regularization
+# A Ridge Too Far: Correcting Over-Shrinkage via Negative Regularization
 
 This repository contains the reference implementation for our paper on **negative regularization** in regression. The code is designed to reproduce the experimental results reported in the paper from a single script.
 
